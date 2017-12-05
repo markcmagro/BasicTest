@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b2470190c24d91e438d1e60f53160b2f
+timeCreated: 1512489236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fira Mono
+  fontNames:
+  - Fira Mono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
